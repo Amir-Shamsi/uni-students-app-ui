@@ -1,3 +1,3 @@
-# Students' Homework Mobile App UI
+# University Students' Mobile App UI
 ### collaborator: <a href="https://github.com/mohammadkeshavarzi">@mohammadkeshavarzi</a>
 Let's begin
