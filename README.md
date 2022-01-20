@@ -1,7 +1,6 @@
 # University Students' Mobile App UI
 ### collaborator: <a href="https://github.com/mohammadkeshavarzi">@mohammadkeshavarzi</a>
 
-
   
   Intro Page |  Register Or Login Page | Login Page
 :-------------------------:|:-------------------------:|:-------------------------:
