@@ -5,7 +5,7 @@
   
   Intro Page |  Register Or Login Page | Login Page
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="Intro.png" height="655"> | <img src="Reg-or-Log-Page.png" height="655"> | <img src="login.png" height="655"> 
+<img src="Intro.png" height="655" width="auto"> | <img src="Reg-or-Log-Page.png" height="655" width="auto"> | <img src="login.png" height="655" width="auto"> 
 
 <br>
 
