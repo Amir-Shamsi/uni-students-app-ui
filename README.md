@@ -13,6 +13,13 @@
 
 
 <br>
+
+## Color Palettes  
+<p align="center">
+  <img src="color-palette/color-palette.png" width="500" alt="color"/>  <img src="color-palette/text-color-palette.png" width="252" alt="color"/>
+</p>
+
+## Pages
   
   Intro Page |  Register Or Login Page | Login Page
 :-------------------------:|:-------------------------:|:-------------------------:
