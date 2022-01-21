@@ -1,6 +1,15 @@
 # University Students' Mobile App UI
 ### collaborator: <a href="https://github.com/mohammadkeshavarzi">@mohammadkeshavarzi</a>
 
+[![made-with](https://img.shields.io/badge/App-Figma-purple.svg?style=flat-square)](https://figma.com/)
+[![made-with](https://img.shields.io/badge/App-Illustrator%202021-red.svg?style=flat-square)](https://www.adobe.com/products/illustrator.html)
+[![APM Licence](https://img.shields.io/badge/licence-CC0-geen?style=flat-square)](LICENSE)
+[![Follow me](https://img.shields.io/github/followers/amir-shamsi?label=follow%20me&style=flat-square)](https://github.com/Amir-Shamsi)
+
+[![ForTheBadge built-with-Figma](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/Amir-Shamsi)
+
+
+<br>
   
   Intro Page |  Register Or Login Page | Login Page
 :-------------------------:|:-------------------------:|:-------------------------:
