@@ -41,3 +41,10 @@
   Homework Page: Upload |  Quizes Page | Quizes Page: Upload
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="Message-Page.png" height="535"  width="1345"> | <img src="Send-message.png" height="530" width="1570"> | <img src="Deliver-Message.png" height="530" width="1500"> 
+
+
+
+## Installation
+  ```sh
+  git clone https://github.com/Amir-Shamsi/uni-students-app-ui.git
+  ```
