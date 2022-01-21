@@ -1,5 +1,5 @@
 # University Students' Mobile App UI
-### collaborator: <a href="https://github.com/mohammadkeshavarzi">@mohammadkeshavarzi</a>
+### Collaborator: <a href="https://github.com/mohammadkeshavarzi">@mohammadkeshavarzi</a>
 
 [![made-with](https://img.shields.io/badge/App-Figma-purple.svg?style=flat-square)](https://figma.com/)
 [![made-with](https://img.shields.io/badge/App-Illustrator%202021-red.svg?style=flat-square)](https://www.adobe.com/products/illustrator.html)
